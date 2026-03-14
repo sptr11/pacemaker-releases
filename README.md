@@ -18,6 +18,10 @@ Engineering managers, TPMs, and PMs at organizations with 30–150 engineers run
 - **Delay tracking** — dates, reasons, and downstream impact, not just a yellow cell
 - **Weekly check-ins** — 15-minute Mondays instead of 3-hour status report assembly
 
+## Try it
+
+**Web app**: [pacemaker-mrfb.onrender.com](https://pacemaker-mrfb.onrender.com/) — ships with demo data, no setup required.
+
 ## Download
 
 Head to [Releases](https://github.com/sptr11/pacemaker-releases/releases) and grab the latest `.dmg` for macOS.
@@ -28,10 +32,10 @@ Head to [Releases](https://github.com/sptr11/pacemaker-releases/releases) and gr
 
 ## Getting started
 
-1. Download and open the `.dmg`
-2. Drag Pacemaker to Applications
-3. Launch Pacemaker — it ships with demo data so you can explore immediately
+1. Try the [web app](https://pacemaker-mrfb.onrender.com/) or download the `.dmg` above
+2. Sign in with the demo credentials on the login screen
+3. Explore the dashboard, projects, and timeline — demo data is preloaded
 
 ## Learn more
 
-Read the [Pacemaker blog](https://sptr11.github.io/resource-planner/#learn) for practical guides on planning, staffing, and delivery tracking.
+Read the [Pacemaker blog](https://pacemaker-mrfb.onrender.com/#learn) for practical guides on planning, staffing, and delivery tracking.
